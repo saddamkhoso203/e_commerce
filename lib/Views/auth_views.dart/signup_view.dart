@@ -1,5 +1,6 @@
-import 'package:e_commerce/Views/HomeView/home.dart';
-import 'package:e_commerce/controller/auth_controllar.dart';
+import 'package:e_com/Views/HomeView/home.dart';
+import 'package:e_com/controller/auth_controllar.dart';
+
 import 'package:get/get.dart';
 
 import '../../consts/consts.dart';

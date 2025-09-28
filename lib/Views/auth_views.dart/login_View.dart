@@ -1,16 +1,18 @@
 // ignore_for_file: file_names
 
-import 'package:e_commerce/Views/auth_views.dart/signup_view.dart';
-import 'package:e_commerce/Views/widgets_comman/custom_textfield.dart';
-import 'package:e_commerce/consts/consts.dart';
-import 'package:e_commerce/consts/list.dart';
-import 'package:e_commerce/controller/auth_controllar.dart';
+import 'package:e_com/consts/consts.dart';
+import 'package:e_com/consts/list.dart';
+import 'package:e_com/controller/auth_controllar.dart';
+
+import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 import '../HomeView/home.dart';
 import '../widgets_comman/applogo_widget.dart';
 import '../widgets_comman/bg_widget.dart';
+import '../widgets_comman/custom_textfield.dart';
 import '../widgets_comman/our_button.dart';
+import 'signup_view.dart';
 
 // import 'package:flutter/material.dart';
 

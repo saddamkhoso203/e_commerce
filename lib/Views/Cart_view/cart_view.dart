@@ -1,4 +1,5 @@
-import 'package:e_commerce/consts/consts.dart';
+import 'package:e_com/consts/consts.dart';
+
 
 class CartView extends StatelessWidget {
   const CartView({super.key});

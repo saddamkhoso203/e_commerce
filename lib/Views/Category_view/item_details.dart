@@ -1,5 +1,6 @@
-import 'package:e_commerce/Views/widgets_comman/our_button.dart';
-import 'package:e_commerce/consts/list.dart';
+
+import 'package:e_com/Views/widgets_comman/our_button.dart';
+import 'package:e_com/consts/list.dart';
 
 import '../../consts/consts.dart';
 

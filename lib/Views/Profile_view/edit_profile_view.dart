@@ -1,11 +1,12 @@
 import 'dart:io';
 
-import 'package:e_commerce/Views/widgets_comman/bg_widget.dart';
-import 'package:e_commerce/Views/widgets_comman/custom_textfield.dart';
-import 'package:e_commerce/Views/widgets_comman/our_button.dart';
-import 'package:e_commerce/consts/consts.dart';
-import 'package:e_commerce/controller/profile_controller.dart';
 
+
+import 'package:e_com/Views/widgets_comman/bg_widget.dart';
+import 'package:e_com/Views/widgets_comman/custom_textfield.dart';
+import 'package:e_com/Views/widgets_comman/our_button.dart';
+import 'package:e_com/consts/consts.dart';
+import 'package:e_com/controller/profile_controller.dart';
 import 'package:get/get.dart';
 
 class EditProfileView extends StatelessWidget {

@@ -1,11 +1,12 @@
-import 'package:e_commerce/Views/Cart_view/cart_view.dart';
-import 'package:e_commerce/Views/Category_view/categories_view.dart';
-import 'package:e_commerce/Views/HomeView/home_view.dart';
-import 'package:e_commerce/Views/Profile_view/profile_view.dart';
+
+import 'package:e_com/Views/Cart_view/cart_view.dart';
+import 'package:e_com/Views/HomeView/home_view.dart';
+import 'package:e_com/Views/Profile_view/profile_view.dart';
 import 'package:get/get.dart';
 
 import '../../consts/consts.dart';
 import '../../controller/home_controller.dart';
+import '../Category_view/categories_view.dart';
 
 class Home extends StatelessWidget {
   const Home({super.key});

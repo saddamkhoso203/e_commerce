@@ -1,5 +1,8 @@
-import 'package:e_commerce/Views/Category_view/category_details.dart';
-import 'package:e_commerce/consts/consts.dart';
+import 'package:e_com/Views/Category_view/category_details.dart' show CategoryDetails;
+import 'package:e_com/consts/consts.dart';
+import 'package:e_com/consts/strings.dart' show categories;
+
+import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 import '../../consts/list.dart';

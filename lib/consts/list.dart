@@ -1,5 +1,5 @@
-import 'package:e_commerce/consts/images.dart';
-import 'package:e_commerce/consts/strings.dart';
+import 'package:e_com/consts/images.dart';
+import 'strings.dart';
 
 const socailIconList = [icFacebookLogo, icGoogleLogo, icTwitterLogo];
 

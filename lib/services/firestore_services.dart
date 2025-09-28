@@ -1,4 +1,5 @@
-import 'package:e_commerce/consts/consts.dart';
+import 'package:e_com/consts/firebase_const.dart';
+
 
 class FirestoreServices {
   //get users data

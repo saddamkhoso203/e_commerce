@@ -1,4 +1,6 @@
-import 'package:e_commerce/Views/HomeView/componant/featured_botton.dart';
+
+
+import 'package:e_com/Views/HomeView/componant/featured_botton.dart' show featureButton;
 
 import '../../consts/consts.dart';
 import '../../consts/list.dart';

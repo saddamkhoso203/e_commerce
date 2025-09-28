@@ -1,15 +1,16 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:e_commerce/Views/Profile_view/Componant/details_cart.dart';
-import 'package:e_commerce/Views/Profile_view/edit_profile_view.dart';
-import 'package:e_commerce/Views/auth_views.dart/login_View.dart';
-import 'package:e_commerce/controller/auth_controllar.dart';
-import 'package:e_commerce/controller/profile_controller.dart';
-import 'package:e_commerce/services/firestore_services.dart';
+import 'package:e_com/Views/auth_views.dart/login_View.dart';
+import 'package:e_com/controller/auth_controllar.dart';
+import 'package:e_com/controller/profile_controller.dart';
+
 import 'package:get/get.dart';
 
 import '../../consts/consts.dart';
 import '../../consts/list.dart';
+import '../../services/firestore_services.dart';
 import '../widgets_comman/bg_widget.dart';
+import 'Componant/details_cart.dart';
+import 'edit_profile_view.dart';
 
 class ProfileView extends StatelessWidget {
   const ProfileView({super.key});

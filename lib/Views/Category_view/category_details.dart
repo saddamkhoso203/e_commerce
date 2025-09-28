@@ -1,4 +1,5 @@
-import 'package:e_commerce/Views/Category_view/item_details.dart';
+import 'package:e_com/Views/Category_view/item_details.dart';
+
 import 'package:get/get.dart';
 
 import '../../consts/consts.dart';

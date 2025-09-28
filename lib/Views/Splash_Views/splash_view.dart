@@ -1,6 +1,7 @@
-import 'package:e_commerce/Views/HomeView/home.dart';
-import 'package:e_commerce/Views/auth_views.dart/login_View.dart';
-import 'package:e_commerce/Views/widgets_comman/applogo_widget.dart';
+
+import 'package:e_com/Views/HomeView/home.dart';
+import 'package:e_com/Views/auth_views.dart/login_View.dart';
+import 'package:e_com/Views/widgets_comman/applogo_widget.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:get/get.dart';
 import '../../consts/consts.dart';

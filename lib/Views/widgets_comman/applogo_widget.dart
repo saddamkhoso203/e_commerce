@@ -1,4 +1,5 @@
-import 'package:e_commerce/consts/consts.dart';
+import 'package:e_com/consts/consts.dart';
+
 
 Widget applogoWidget() {
   return Image.asset(icAppLogo)
